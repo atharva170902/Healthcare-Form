@@ -138,8 +138,8 @@ export default function ConsultationForm({ user, doctors }) {
       <div className="bg-white shadow border-b border-gray-200">
         <div className="container mx-auto px-4 py-3 flex items-center">
           <img
-            src="/op.png" // <-- Replace this with your actual logo path or URL
-            alt="Operisoft Logo"
+            src="/Op.png" // <-- Replace this with your actual logo path or URL
+            alt="Op"
             className="h-10 w-10 object-contain mr-4"
           />
           <h1 className="text-2xl font-semibold text-gray-800">
